@@ -4,3 +4,4 @@ I am an AI Researcher & Software Engineer with a strong interest in building sca
 
 ---
 [![X Follow](https://img.shields.io/twitter/follow/hohieuai?label=Follow&style=social)](https://x.com/hohieuai)
+[![Threads](https://img.shields.io/badge/Threads-15.5K%2B%20followers-black?style=social&logo=threads)](https://threads.net/@hohieuai)
