@@ -1,4 +1,4 @@
-## Hi there, I'm Hieu 👋
+## Hi there, I'm Hieu Ho 👋
 
 I am an AI Researcher & Software Engineer with a strong interest in building scalable systems, generative AI, and making meaningful contributions to open-source projects.
 
